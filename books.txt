@@ -1,0 +1,7 @@
+1	The Da Vinci Code	Dan Brown	2003	mistery-detective	20	3
+2	Think and Grow Rich	Napoleon Hill	1937	non-fiction	50	5
+3	Harry Potter and the Half-Blood Prince	J.K.Rowling	2005	fantasy	92	8
+4	The Catcher in the Rye	J.D.Salinger	1951	novel	100	6
+5	Killing Floor	Lee Child	1997	detective	45	12
+6	Die Trying	Lee Child	1998	detective	48	12
+7	Trip Wire	Lee Child	1999	detective	53	11
