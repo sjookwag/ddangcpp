@@ -1,0 +1,1 @@
+I taught my son C++ years ago, and the following is one of the example programs I was using at the time. It records book information in text files, has the functions of inquiry, deletion, modification, and retrieval (i.e., CRUD).
